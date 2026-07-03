@@ -9,5 +9,5 @@ spec:
   type: service
   owner: user:endygomez
   lifecycle: experimental
-  dependsOn: 
-    - "resource:my-demo-app-ec2"
+  # dependsOn: 
+    # - "resource:my-demo-app-ec2"
